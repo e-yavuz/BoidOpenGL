@@ -2,6 +2,7 @@
 *.d
 Makefile
 *.plist
+*.clangd
 
 # Compiled Object files
 *.slo
